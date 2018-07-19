@@ -13,5 +13,6 @@
 </head>
 <body>
     <h1>Index</h1>
+    <p>${hello.string}</p>
 </body>
 </html>
